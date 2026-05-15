@@ -3,10 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rytechh/rytechh/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/rytechh/rytechh/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+  
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=rytechh&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true&locale=pt-br"/>
+  
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rytechh&layout=compact&langs_count=5&theme=gruvbox_light&locale=pt-br"/>
 
+</div>
+<br>
+  
 ###
 
 <h2 align="left">Techs</h2>
