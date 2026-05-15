@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=rytechh&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.shion.dev/api?username=rytechh&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true&locale=pt-br"/>
   
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rytechh&layout=compact&langs_count=5&theme=gruvbox_light&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rytechh&layout=compact&langs_count=5&theme=gruvbox_light&locale=pt-br"/>
 
 </div>
 <br>
