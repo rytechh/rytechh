@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Sejam muito bem vindos ao meu GitHub!</h2>
+<h2 align="center">Que surpresa boa encontrar você por aqui!</h2>
 
 ###
 
@@ -47,26 +47,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rytechh/rytechh/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rytechh/rytechh/snake-output/snake.svg" alt="Snake animation"/>
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/raian-oliveiraa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="discordapp.com/users/828958945505837116" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+<div align="center">
+  <p>✨ <i>"Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity."</i> ✨</p>
+  <p>💡 <b>Aaron Swartz</b></p>
 </div>
 
 ###
 
-<div align="left">
-</div>
+###
+
+###
 
 ###
